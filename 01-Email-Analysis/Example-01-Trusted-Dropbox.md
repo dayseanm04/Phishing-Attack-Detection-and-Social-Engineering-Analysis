@@ -6,7 +6,7 @@ Legitimate Email
 
 ## Email Screenshot 
 
-<img width="779" height="465" alt="example-01-dropbox" src="/02-Images/Example-01.png" />
+<img width="779" height="465" alt="example-01-dropbox" src="/02-Images/Example-01-dropbox.png" />
 
 ---
 
