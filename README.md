@@ -21,5 +21,7 @@ Each email must be evaluated using a structured phishing detection checklist. Fo
 Each email was evaluated using the following security criteria:
 
 - Requests for sensitive or personal information
+- Incorrect recipient name or mismatched details
+- Suspicious or spoofed sender address
 
 
