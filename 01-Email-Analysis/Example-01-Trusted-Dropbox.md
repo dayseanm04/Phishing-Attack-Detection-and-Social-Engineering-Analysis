@@ -31,4 +31,8 @@ No domain spoofing or mismatched sender information was identified.
 ---
 
 ### 2. Purpose of the Email  
-- The message is informational  
+- The message is informational
+- It does not request sensitive information  
+- It does not request financial details  
+- It does not request payment  
+- It does not create urgency or pressure  
