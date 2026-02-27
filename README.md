@@ -25,9 +25,10 @@ Each email was evaluated using the following security criteria:
 - Suspicious or spoofed sender address
 - Grammar and spelling errors
 - Urgency tactics or threatening language
-- Suspicious links or forced website redirects
+- Suspicious links or website redirects
 - Unexpected attachments
-
+- Requests for money or financial transactions
+- Domain mismatches
 
 
 
