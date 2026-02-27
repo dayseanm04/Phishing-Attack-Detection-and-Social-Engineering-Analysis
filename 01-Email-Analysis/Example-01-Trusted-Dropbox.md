@@ -55,3 +55,10 @@ The email simply notifies the recipient of a file transfer.
 | Requests sensitive information | No |
 | Incorrect recipient details | No |
 | Suspicious sender domain | No |
+| Poor grammar or spelling | No |
+| Urgency or threats | No |
+
+
+
+
+
