@@ -28,3 +28,7 @@ This email is a file transfer notification sent through Dropbox. The message inf
 
 No domain spoofing or mismatched sender information was identified.
 
+---
+
+### 2. Purpose of the Email  
+- The message is informational  
