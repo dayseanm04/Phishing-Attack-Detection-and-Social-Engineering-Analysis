@@ -26,3 +26,5 @@ This email is a file transfer notification sent through Dropbox. The message inf
 - The domain **dropbox.com** is a legitimate and recognized Dropbox domain  
 - “No-reply” addresses are commonly used for automated system notifications  
 
+No domain spoofing or mismatched sender information was identified.
+
