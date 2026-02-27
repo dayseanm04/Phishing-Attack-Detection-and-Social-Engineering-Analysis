@@ -27,3 +27,7 @@ Evaluate each email using consistent security criteria:
 - Poor grammar, spelling errors, or unprofessional formatting  
 - Urgency tactics or threatening language  
 - Redirection to websites  
+- Unexpected or unusual attachments  
+- Requests for money or financial transactions
+
+
