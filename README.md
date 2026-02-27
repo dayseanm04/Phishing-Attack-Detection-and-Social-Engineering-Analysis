@@ -1,4 +1,7 @@
 # Phishing Email Detection & Social Engineering Analysis Lab
 
+## Overview
 
+This lab simulates a real-world help desk and security operations center environment where suspicious emails are submitted for review. 
 
+The objective is to analyze each email, determine whether it is legitimate or malicious, and document justification for the decision. The lab focuses on identifying phishing indicators, detecting social engineering tactics, and applying structured email security analysis techniques.
