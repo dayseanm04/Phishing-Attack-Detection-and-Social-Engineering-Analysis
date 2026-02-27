@@ -16,6 +16,10 @@ Each email must be evaluated using a structured phishing detection checklist. Fo
 
 ---
 
+## Analysis Methodology
 
+Each email was evaluated using the following security criteria:
+
+- Requests for sensitive or personal information
 
 
