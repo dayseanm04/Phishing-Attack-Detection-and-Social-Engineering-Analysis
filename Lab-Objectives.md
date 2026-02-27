@@ -24,3 +24,6 @@ Evaluate each email using consistent security criteria:
 - Requests for sensitive or personal information  
 - Incorrect recipient name or mismatched details  
 - Suspicious or spoofed sender address  
+- Poor grammar, spelling errors, or unprofessional formatting  
+- Urgency tactics or threatening language  
+- Redirection to websites  
