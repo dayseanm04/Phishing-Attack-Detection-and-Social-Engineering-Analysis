@@ -18,3 +18,7 @@ This lab exercise focuses on identifying phishing attempts, recognizing social e
 - Recognize common phishing attack patterns  
 - Detect impersonation, fraud, and extortion attempts
 
+### 2. Apply a Structured Evaluation
+Evaluate each email using consistent security criteria:
+
+- Requests for sensitive or personal information  
