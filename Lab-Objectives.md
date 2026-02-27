@@ -30,4 +30,5 @@ Evaluate each email using consistent security criteria:
 - Unexpected or unusual attachments  
 - Requests for money or financial transactions
 
-
+### 3. Analyze Email Authenticity
+- Inspect sender domains
