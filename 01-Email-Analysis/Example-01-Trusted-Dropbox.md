@@ -53,4 +53,5 @@ The email simply notifies the recipient of a file transfer.
 | Indicator | Present |
 |------------|----------|
 | Requests sensitive information | No |
-
+| Incorrect recipient details | No |
+| Suspicious sender domain | No |
