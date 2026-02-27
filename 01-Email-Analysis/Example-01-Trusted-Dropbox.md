@@ -14,5 +14,7 @@ Legitimate Email
 
 This email is a file transfer notification sent through Dropbox. The message informs the recipient that files were shared using Dropbox Transfer.
 
+**Sender:** no-reply@dropbox.com  
+**Action:** Notification that Mike Neff sent files to Micheal Whiteman  
 
 
