@@ -22,3 +22,5 @@ This lab exercise focuses on identifying phishing attempts, recognizing social e
 Evaluate each email using consistent security criteria:
 
 - Requests for sensitive or personal information  
+- Incorrect recipient name or mismatched details  
+- Suspicious or spoofed sender address  
