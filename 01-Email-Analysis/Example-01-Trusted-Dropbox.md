@@ -46,5 +46,11 @@ The email simply notifies the recipient of a file transfer.
 - The formatting is consistent with automated notification emails  
 - The language and grammar are professional and correct  
 
+---
 
+## Phishing Indicator Checklist Review  
+
+| Indicator | Present |
+|------------|----------|
+| Requests sensitive information | No |
 
