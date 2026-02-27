@@ -43,37 +43,10 @@ Evaluate each email using consistent security criteria:
 - Improve the ability to recognize social engineering tactics  
 - Develop practical phishing detection skills  
 
+## Skills Demonstrated
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Phishing detection and analysis  
+- Social engineering awareness  
+- Email threat analysis  
+- Risk assessment and documentation  
+- Security-focused critical thinking
