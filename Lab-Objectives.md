@@ -39,6 +39,11 @@ Evaluate each email using consistent security criteria:
 - Classify each email as legitimate or suspicious  
 - Identify phishing indicators
 
+### 5. Strengthen Security Awareness and Threat Detection
+- Improve the ability to recognize social engineering tactics  
+- Develop practical phishing detection skills  
+
+
 
 
 
