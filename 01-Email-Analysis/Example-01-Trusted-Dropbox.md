@@ -36,3 +36,6 @@ No domain spoofing or mismatched sender information was identified.
 - It does not request financial details  
 - It does not request payment  
 - It does not create urgency or pressure  
+
+The email simply notifies the recipient of a file transfer.
+
