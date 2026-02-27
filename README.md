@@ -12,6 +12,10 @@ The objective is to analyze each email, determine whether it is legitimate or ma
 
 Assume the role of a help desk analyst reviewing emails submitted by employees who believe they may have received suspicious email.
 
+Each email must be evaluated using a structured phishing detection checklist. For any suspicious email, specific indicators must be identified and explained.
+
+---
+
 
 
 
