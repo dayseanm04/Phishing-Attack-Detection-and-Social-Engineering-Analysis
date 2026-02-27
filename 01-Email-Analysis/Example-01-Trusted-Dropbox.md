@@ -44,6 +44,7 @@ The email simply notifies the recipient of a file transfer.
 ### 3. Branding and Formatting
 - The DropboxTransfer branding appears legitimate  
 - The formatting is consistent with automated notification emails  
+- The language and grammar are professional and correct  
 
 
 
