@@ -23,3 +23,5 @@ This email is a file transfer notification sent through Dropbox. The message inf
 
 ### 1. Sender Address Verification  
 - The email originates from **no-reply@dropbox.com**  
+- The domain **dropbox.com** is a legitimate and recognized Dropbox domain  
+
