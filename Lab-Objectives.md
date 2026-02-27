@@ -37,6 +37,29 @@ Evaluate each email using consistent security criteria:
 
 ### 4. Document Findings and Justification
 - Classify each email as legitimate or suspicious  
+- Identify phishing indicators
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
