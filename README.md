@@ -29,6 +29,7 @@ Each email was evaluated using the following security criteria:
 - Unexpected attachments
 - Requests for money or financial transactions
 - Domain mismatches
+- Inconsistent branding or formatting
 
 
 
