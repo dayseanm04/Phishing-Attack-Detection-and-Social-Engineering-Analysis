@@ -39,3 +39,10 @@ No domain spoofing or mismatched sender information was identified.
 
 The email simply notifies the recipient of a file transfer.
 
+---
+
+### 3. Branding and Formatting
+- The DropboxTransfer branding appears legitimate  
+
+
+
