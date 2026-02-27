@@ -32,3 +32,6 @@ Evaluate each email using consistent security criteria:
 
 ### 3. Analyze Email Authenticity
 - Inspect sender domains
+- Identify mismatched names and domains  
+- Evaluate attachment types and file extensions  
+
