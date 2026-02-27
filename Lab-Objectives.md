@@ -35,3 +35,17 @@ Evaluate each email using consistent security criteria:
 - Identify mismatched names and domains  
 - Evaluate attachment types and file extensions  
 
+### 4. Document Findings and Justification
+- Classify each email as legitimate or suspicious  
+
+
+
+
+
+
+
+
+
+
+
+
