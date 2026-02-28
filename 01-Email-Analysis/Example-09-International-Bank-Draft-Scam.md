@@ -52,5 +52,18 @@ This inconsistency suggests the sender's identity and story are fabricated.
 - The email address is **hilariocasimiro@uol.com.br**, which contains a completely different name
 - This mismatch indicates the sender is either using a borrowed, stolen, or fake email account
 
+
 ---
+
+### 3. Classic Advance-Fee Scam Pattern (419)  
+
+The structure of this email follows a well-known advance-fee fraud format:
+
+- References a vague prior relationship ("your past assistance and commitments") to make the recipient feel involved
+- Claims a large sum of money (**$1.5 million**) has been set aside for the recipient
+- Directs the recipient to contact a **Jacob Lycama** to claim the funds
+- Asks the recipient to send their **full personal information**
+
+Victims are typically later asked to pay "processing fees," "taxes," or "transfer costs" before receiving anything.
+
 
