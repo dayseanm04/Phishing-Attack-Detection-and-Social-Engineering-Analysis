@@ -55,6 +55,17 @@ This inconsistency between sender identity and signature is a major red flag and
 
 ---
 
+### 3. Suspicious Attachment Type  
+
+The email includes two attachments:
+
+Payment Copy 1.html  and Payment Copy 2.html
+
+HTML files are web page files and can:
+- Redirect users to malicious websites  
+- Contain embedded credential harvesting forms  
+- Execute malicious scripts  
+- Deliver malware  
 
 
 
