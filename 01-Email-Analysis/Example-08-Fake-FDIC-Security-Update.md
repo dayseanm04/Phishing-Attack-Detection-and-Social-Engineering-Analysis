@@ -28,3 +28,15 @@ As soon as it is set up, your transaction abilities will be fully restored.<br/>
 Best regards, Online security department Federal Deposit Insurance Corporation.
 
 ---
+
+## Security Analysis  
+
+### 1. Sender Domain Does Not Match the Claimed Organization  
+
+- The email claims to be from the **FDIC**, a U.S. federal government agency
+- The actual sender email is **Opal@boomansion.net**
+
+
+
+
+
