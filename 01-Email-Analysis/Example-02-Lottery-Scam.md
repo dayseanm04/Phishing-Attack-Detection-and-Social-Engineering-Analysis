@@ -61,6 +61,12 @@ The email contains multiple errors:
 
 Poor grammar is a common phishing indicator.
 
+---
 
+### 4. Suspicious Attachment  
+- The email includes an attachment titled **CONGRATULATION.COLO.pdf**  
+- Unsolicited attachments are commonly used to deliver malware  
+
+Unexpected attachments from unknown senders should be treated as high risk (**`Red Flag`**).
 
 
