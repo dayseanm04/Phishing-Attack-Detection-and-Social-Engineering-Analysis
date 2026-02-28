@@ -85,7 +85,8 @@ Unexpected attachments from unknown senders should be treated as high risk (**`R
 | Suspicious sender domain | Yes |
 | Poor grammar or spelling | Yes |
 | Unexpected attachment | Yes |
-
+| Unrealistic financial reward | Yes |
+| Requests money/information (implied next step) | Likely |
 
 
 
