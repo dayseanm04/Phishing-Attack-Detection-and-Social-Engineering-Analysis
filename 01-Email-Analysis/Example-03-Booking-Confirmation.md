@@ -17,3 +17,9 @@ This email is a booking confirmation from a moving company.
 Bears Moving Co Booking Confirmation 1-29-21 Herbert Mattord 6pm  
 
 The message confirms a scheduled moving service and includes:
+- Company name  
+- Date  
+- Client name  
+- Scheduled time
+
+The email appears to be a standard service confirmation notification.
