@@ -30,5 +30,10 @@ The message implies a financial transaction and includes a PDF attachment labele
 
 Notification emails from legitimate organizations typically come from structured addresses like: no-reply@bankname.com  
 
+The use of a vague “company.com” domain is a major red flag.
 
+---
+
+### 2. Unsolicited Financial Attachment  
+- The email includes an attachment titled **Payment Advice.pdf**  
 
