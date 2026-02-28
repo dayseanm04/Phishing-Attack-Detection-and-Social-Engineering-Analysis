@@ -77,8 +77,26 @@ The structure of the email follows a well-known advance-fee fraud format:
 - Requests assistance transferring funds
 - Moves conversation to a personal email address
 
+Victims are typically later asked to pay “processing fees,” “taxes,” or “transfer costs.”
+
+---
+
+### 4. Authority-Based Social Engineering  
+
+The sender uses:
+
+- Military rank (Captain)
+- Deployment location (Iraq)
+- Emotional urgency (“desperate need for assistance”)
+
+Impersonating military personnel is a common tactic used to build trust and manipulate victims.
 
 
+### 5. Poor Grammar and Formatting  
 
+The email contains multiple grammatical issues:
+
+- Missing spaces after punctuation  
+- Inconsistent capitalization  
 
 
