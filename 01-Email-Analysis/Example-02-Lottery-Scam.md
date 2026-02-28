@@ -14,3 +14,4 @@ Suspicious Email (Phishing Scam)
 This email claims that the recipient has won the USA Mega Millions email lottery.
 
 **Displayed Sender Name:** USA-Lottery  
+**Actual Sender Email:** info@kysmaq.co.jp  
