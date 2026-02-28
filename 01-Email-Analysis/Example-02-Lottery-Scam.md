@@ -69,4 +69,7 @@ Poor grammar is a common phishing indicator.
 
 Unexpected attachments from unknown senders should be treated as high risk (**`Red Flag`**).
 
+---
 
+### 5. Unrealistic Claim  
+- The recipient is told they won a lottery (the recipient probably did not enter)
