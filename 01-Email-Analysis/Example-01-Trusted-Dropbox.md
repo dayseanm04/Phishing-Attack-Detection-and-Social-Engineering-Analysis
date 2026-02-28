@@ -8,6 +8,8 @@ Legitimate Email
 
 <img width="779" height="465" alt="example-01-dropbox" src="/02-Images/Example-01-dropbox.png" />
 
+![Lottery Scam Email Screenshot](/02-Images/Example-01-dropbox.png)
+
 ---
 
 ## Scenario Summary  
