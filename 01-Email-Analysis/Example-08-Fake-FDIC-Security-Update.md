@@ -41,7 +41,6 @@ A non-government domain is being used to impersonate a federal agency is a major
 
 ---
 
-
 ### 2. Suspicious and Unofficial Link  
 
 - The email directs the recipient to: **http://www.update.fdic.gov**
@@ -51,5 +50,15 @@ A non-government domain is being used to impersonate a federal agency is a major
 
 
 Clicking links from unverified senders can lead to credential theft or malware installation.
+
+---
+
+### 3. Vague and Nonsensical Reasoning  
+
+- The email claims transactions were suspended due to an expired **"security version"**
+- This is not a real technical term used by banks or government agencies
+- Legitimate financial institutions provide clear, specific explanations when suspending account activity
+
+The vague language is designed to cause panic without requiring the scammer to provide verifiable details.
 
 
