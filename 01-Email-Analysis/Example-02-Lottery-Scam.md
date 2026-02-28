@@ -38,5 +38,6 @@ TJDKHDLUSQQJMNMFTOKXIZTYHLJKDLHSBXGIQQ"
 
 <img width="937" height="482" alt="kysmaq" src="https://github.com/user-attachments/assets/7b313e23-d809-44ee-84fb-cf0e406184cf" />
 
+A legitimate U.S. lottery organization would not use an Japanese domain. This is a major **red flag**.
 
 
