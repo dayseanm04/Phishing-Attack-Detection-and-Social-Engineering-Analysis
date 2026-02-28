@@ -29,7 +29,7 @@ capt.james001@sify.com
 ## Email Body
 
 Dear Friend,  
-With a very desperate need for assistance.I am Capt. James Micheal. presently in Iraq with the United States Marine Corps;I found your contact particulars in an Address journal.I am seeking your assistance to evacuate the sum of $500,000.00 to you,as far as I can be assured that
+With a very desperate need for assistance.I am Capt. James Micheal. presently in Iraq with the United States Marine Corps;I found your contact particulars in an Address journal.I am seeking your assistance to evacuate the sum of $500,000.00 to you,as far as I can be assured that <br/>
 it
 will be safe in your care until I complete my service here.
 SOURCE OF MONEY:  
