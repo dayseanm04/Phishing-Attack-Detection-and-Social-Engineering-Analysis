@@ -74,3 +74,12 @@ Victims are typically later asked to pay "processing fees," "taxes," or "transfe
 - Sharing personal details (full name, address, phone number, email, country) with unknown parties can cause identity theft and fraud
 
 ---
+
+### 5. Generic and Manipulative Greeting  
+
+- The email starts with **"Dear Friend"** no real name is used
+- This is a bulk phishing tactic, sent to many recipients at once
+- The vague reference to "your effort" and "your hands were tied" is designed to make the recipient feel like they are already part of the story, even though they might have no prior relationship with the sender
+
+---
+
