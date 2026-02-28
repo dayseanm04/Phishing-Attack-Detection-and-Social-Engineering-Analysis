@@ -52,6 +52,7 @@ Cryptocurrency is commonly used in scams because transactions are difficult to t
 - The sender did not provides any proof of the alleged claims  
 - The message relies solely on fear and urgency
 
+This is just an extortion email
 
 
 
