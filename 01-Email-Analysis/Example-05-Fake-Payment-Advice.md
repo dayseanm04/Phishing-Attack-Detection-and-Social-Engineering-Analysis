@@ -36,4 +36,9 @@ The use of a vague “company.com” domain is a major red flag.
 
 ### 2. Unsolicited Financial Attachment  
 - The email includes an attachment titled **Payment Advice.pdf**  
+- The recipient was probably not expecting a payment notification  
+- Unsolicited financial documents are commonly used to distribute malware  
 
+Banks typically provide statements through secure portals rather than random email attachments.
+
+---
