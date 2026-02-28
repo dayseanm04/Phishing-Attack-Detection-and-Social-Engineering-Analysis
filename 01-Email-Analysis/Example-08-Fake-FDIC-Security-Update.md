@@ -61,7 +61,6 @@ Clicking links from unverified senders can lead to credential theft or malware i
 
 The vague language is designed to cause panic without requiring the scammer to provide verifiable details.
 
-
 ---
 
 ### 4. Urgency and Fear Based Social Engineering  
@@ -77,6 +76,13 @@ The vague language is designed to cause panic without requiring the scammer to p
 - The email starts with **"Dear client"** rather than the recipient's actual name
 - A real government agency like the FDIC would address the account holder by their full legal name
 - Generic greetings are a common indicator that the email was sent in bulk to many targets
+
+---
+
+### 6. Strategic Use of Bold Formatting  
+
+- The email uses **bold text** to emphasize specific phrases such as **"ACH and Wire Transactions"**, **"temporarily suspended"**, and **"install the newest Updates"**
+- This formatting is intentional it draws the reader's those phrases to create panic
 
 ---
 
