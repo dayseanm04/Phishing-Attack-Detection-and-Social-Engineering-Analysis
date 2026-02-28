@@ -42,3 +42,19 @@ The email body contains multiple grammatical errors:
 - “as ask” instead of “as asked”  
 - “western union” not capitalized  
 
+Legitimate financial communications are professionally written and grammatically correct.
+
+---
+
+### 2. Identity Mismatch
+
+- The sender email is **tbaust@lps.org** (Theresa Baustert)  
+- The message is signed **Uzman Shamsi**  
+
+This inconsistency between sender identity and signature is a major red flag and suggests account compromise or spoofing.
+
+---
+
+
+
+
