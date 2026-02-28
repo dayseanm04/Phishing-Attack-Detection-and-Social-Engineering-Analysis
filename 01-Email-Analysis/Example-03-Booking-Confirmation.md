@@ -68,7 +68,8 @@ There are no spelling errors or suspicious writing patterns.
 | Requests sensitive information | No |
 | Incorrect recipient details | No |
 | Suspicious sender domain | No |
-
+| Poor grammar or spelling | No |
+| Urgency or threats | No |
 
 
 
