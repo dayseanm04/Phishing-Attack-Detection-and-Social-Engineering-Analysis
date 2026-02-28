@@ -86,3 +86,12 @@ The vague language is designed to cause panic without requiring the scammer to p
 
 ---
 
+### 7. Requests User Interaction With an External Link  
+
+- The wants the recipient to click a link and **download/install** something
+- Legitimate agencies do not ask customers to download updates via an unsolicited email
+- This is a classic phishing technique used to deliver malware or harvest login credentials
+
+---
+
+
