@@ -55,6 +55,8 @@ There are no spelling errors or suspicious writing patterns.
 
 ### 4. No Urgency or Threat Tactics  
 - The message does not create panic  
+- The message does not pressure the recipient to act immediately  
+- There are no threats or financial demands  
 
 
 
