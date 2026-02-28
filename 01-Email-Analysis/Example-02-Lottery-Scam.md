@@ -19,3 +19,9 @@ This email claims that the recipient has won the USA Mega Millions email lottery
 The email includes an attachment titled:
 
 **`CONGRATULATION-COLO.pdf`**
+
+The body of the email states:
+
+“Congratulation you have won the usa mega millions email lottery.attachements below is your winner prize information view the procedures on how to claim your prize”
+
+TJDKHDLUSQQJMNMFTOKXIZTYHLJKDLHSBXGIQQ"
