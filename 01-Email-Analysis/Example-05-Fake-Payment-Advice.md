@@ -67,7 +67,11 @@ Opening unexpected financial attachments presents a significant security risk.
 | Indicator | Present |
 |------------|----------|
 | Requests sensitive information | Potential |
-
+| Suspicious sender domain | Yes |
+| Unexpected attachment | Yes |
+| Financial context without verification | Yes |
+| Legitimate institutional branding | No |
+| Requests money | Implied |
 
 
 
