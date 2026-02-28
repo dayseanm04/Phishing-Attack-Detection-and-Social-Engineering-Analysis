@@ -54,5 +54,13 @@ Cryptocurrency is commonly used in scams because transactions are difficult to t
 
 This is just an extortion email
 
+---
+
+## Phishing Indicator Checklist Review  
+
+| Indicator | Present |
+|------------|----------|
+| Requests sensitive information | No |
+| Suspicious sender domain | Yes |
 
 
