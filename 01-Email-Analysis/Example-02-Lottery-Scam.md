@@ -5,3 +5,4 @@ Suspicious Email (Phishing Scam)
 
 ## Email Screenshot
 
+![Lottery Scam Email Screenshot](/02-Images/Example-02-lottery.png)
