@@ -88,6 +88,8 @@ Unexpected attachments from unknown senders should be treated as high risk (**`R
 | Unrealistic financial reward | Yes |
 | Requests money/information (implied next step) | Likely |
 
+Multiple high-risk phishing indicators are present.
+
 
 
 
