@@ -55,7 +55,9 @@ Legitimate prize notifications would have included verified recipient details.
 The email contains multiple errors:
 - Missing spacing and punctuation
 - Bad grammer, the emails says
--   "**`Congratulations you have won the usa mega millions email lottery.attachements below is your winner price information view the procedures on how to claim your prize`**" instead of something like "**`Congratulations you have won the usa mega millions lottery. Attached below is your winner prize information, view the procedures on how to claim your prize`**"
+ - "**`Congratulations you have won the usa mega millions email lottery.attachements below is your winner price information view the procedures on how to claim your prize`**"
+- instead of something like
+ -  "**`Congratulations you have won the usa mega millions lottery. Attached below is your winner prize information, view the procedures on how to claim your prize`**"
 
 
 
