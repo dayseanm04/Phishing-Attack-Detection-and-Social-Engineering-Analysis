@@ -33,12 +33,12 @@ With a very desperate need for assistance.I am Capt. James Micheal. presently in
 it<br/>
 will be safe in your care until I complete my service here.<br/><br/>
 SOURCE OF MONEY:  <br/>
-some money in various currencies was discovered concealed in barrels with piles of weapons and ammunitions at a location near one of Saddam's old palaces<br/><br/>
-during a rescue operation,and it was agreed by all party present that the money will be shared amongst us.<br/><br/>
-The above figure was given to me as my share, There is a secured way of getting the package out to a safer country for you to pick up,and i will<br/><br/>
-discuss this with you when I am sure that you are willing to<br/><br/>
-assist me, because I do not know for how long we will remain here.<br/><br/>
-Please you can reach me on my personal e-mail address below for more<br/><br/>
+some money in various currencies was discovered concealed in barrels with piles of weapons and ammunitions at a location near one of Saddam's old palaces<br/>
+during a rescue operation,and it was agreed by all party present that the money will be shared amongst us.<br/>
+The above figure was given to me as my share, There is a secured way of getting the package out to a safer country for you to pick up,and i will<br/><
+discuss this with you when I am sure that you are willing to<br/>
+assist me, because I do not know for how long we will remain here.<br/>
+Please you can reach me on my personal e-mail address below for more<br/>
 information.  
 Email: capt.james001@sify.com  
 Thanks  
