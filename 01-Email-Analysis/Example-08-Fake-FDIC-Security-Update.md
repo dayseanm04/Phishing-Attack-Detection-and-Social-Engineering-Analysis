@@ -62,3 +62,14 @@ Clicking links from unverified senders can lead to credential theft or malware i
 The vague language is designed to cause panic without requiring the scammer to provide verifiable details.
 
 
+---
+
+### 4. Urgency and Fear Based Social Engineering  
+
+- The message implies immediate financial consequences, a suspended **ACH and Wire transactions**
+- This creates urgency, pressuring the recipient to act quickly without thinking critically
+- Scammers use urgency to bypass the recipient's better judgment
+
+---
+
+
