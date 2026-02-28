@@ -81,6 +81,8 @@ Unexpected attachments from unknown senders should be treated as high risk (**`R
 | Indicator | Present |
 |------------|----------|
 | Requests sensitive information | Likely |
+| Incorrect or generic recipient details | Yes |
+| Suspicious sender domain | Yes |
 
 
 
