@@ -30,7 +30,7 @@ capt.james001@sify.com
 
 Dear Friend,  
 With a very desperate need for assistance.I am Capt. James Micheal. presently in Iraq with the United States Marine Corps;I found your contact particulars in an Address journal.I am seeking your assistance to evacuate the sum of $500,000.00 to you,as far as I can be assured that <br/>
-it<br/><br/>
+it<br/>
 will be safe in your care until I complete my service here.<br/><br/>
 SOURCE OF MONEY:  <br/><br/>
 some money in various currencies was discovered concealed in barrels with piles of weapons and ammunitions at a location near one of Saddam's old palaces<br/><br/>
