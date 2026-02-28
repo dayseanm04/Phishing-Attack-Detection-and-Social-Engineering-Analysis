@@ -15,4 +15,6 @@ Suspicious Email (Impersonation / Malicious Attachment)
 This email appears to be a payment notification.
 
 **Sender Email:** mail_server@company.com  
-**Attachment:** **`Payment Advice.pdf`**
+**Attachment:** Payment Advice.pdf
+
+The message implies a financial transaction and includes a PDF attachment labeled “Payment Advice.pdf.”
