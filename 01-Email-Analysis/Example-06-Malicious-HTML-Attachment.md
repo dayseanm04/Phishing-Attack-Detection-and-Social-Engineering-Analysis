@@ -78,3 +78,24 @@ Legitimate financial institutions typically send secure PDFs (Bank statements or
 
 ---
 
+### 5. Financial Lure  
+
+The message claims money was sent via Western Union, which:
+
+- Encourages the recipient to open the attachment  
+- Creates curiosity and urgency  
+- Uses a recognizable financial service to appear legitimate  
+
+Western Union scams are commonly used in phishing campaigns.
+
+---
+
+
+
+
+
+
+
+
+
+
