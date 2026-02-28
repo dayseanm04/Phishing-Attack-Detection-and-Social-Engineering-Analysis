@@ -15,3 +15,7 @@ This email claims that money has been sent via Western Union and instructs the r
 
 **Subject Line:**  
 I SEND THE MONEY TO YOUR NAME SEE PAYMENT COPY IN ATTACH  
+
+**Displayed Sender Name:** Theresa Baustert  
+**Sender Email:** tbaust@lps.org  
+
