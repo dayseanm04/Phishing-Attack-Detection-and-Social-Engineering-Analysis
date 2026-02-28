@@ -22,8 +22,7 @@ This email claims to be from a Daniel Arscott, who says he has successfully tran
 
 "Dear Friend,
 
-This is to thank you for your effort, I understood that your hands were tied, But Not to worry I have succeeded, the money has been transfered into the account provided by a newly found friend of mine in Japan.To compensate you for your past assistance and commitments, i have droped an <br/>
-International Certified Bank Draft cheque worth of $1.5 million US dollars, for you. I am in Japan with my family presently. I do intend to establish some<br/>
+This is to thank you for your effort, I understood that your hands were tied, But Not to worry I have succeeded, the money has been transfered into the account provided by a newly found friend of mine in Japan.To compensate you for your past assistance and commitments, i have droped an International Certified Bank Draft cheque worth of $1.5 million US dollars, for you. I am in Japan with my family presently. I do intend to establish some<br/>
 business concers here, and possibly buy some properties. Contact JACOB LYCAMA on His Email: (jacoblycama@ymail.com), Send him your full<br/>
 information to send you the cheque
 
