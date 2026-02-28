@@ -72,4 +72,11 @@ The vague language is designed to cause panic without requiring the scammer to p
 
 ---
 
+### 5. Generic Greeting  
+
+- The email starts with **"Dear client"** rather than the recipient's actual name
+- A real government agency like the FDIC would address the account holder by their full legal name
+- Generic greetings are a common indicator that the email was sent in bulk to many targets
+
+---
 
