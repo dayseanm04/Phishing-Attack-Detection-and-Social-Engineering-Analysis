@@ -12,3 +12,8 @@ Legitimate Email
 ## Scenario Summary  
 
 This email is a booking confirmation from a moving company.
+
+**Subject Line:**  
+Bears Moving Co Booking Confirmation 1-29-21 Herbert Mattord 6pm  
+
+The message confirms a scheduled moving service and includes:
