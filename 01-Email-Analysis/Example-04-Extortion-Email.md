@@ -34,6 +34,11 @@ The sender does not appear to represent any legitimate organization.
 ### 2. Threat-Based Social Engineering  
 - The email threatens to expose the recipient  
 - It attempts to create fear and panic
+- The message demands payment from the recipient
+
+This is an intimidation tactic used in sextortion and blackmail scams.
+
+---
 
 
 
