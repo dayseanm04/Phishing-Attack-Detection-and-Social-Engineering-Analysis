@@ -43,4 +43,14 @@ Daniel Arscott
 - However, the sender's email is **hilariocasimiro@uol.com.br** — the **.br** domain extension belongs to **Brazil**, not Japan
 This inconsistency suggests the sender's identity and story are fabricated.
 
+---
+
+
+### 2. Sender Name Does Not Match the Email Address  
+
+- The displayed name is **Daniel Arscott**
+- The email address is **hilariocasimiro@uol.com.br**, which contains a completely different name
+- This mismatch indicates the sender is either using a borrowed, stolen, or fake email account
+
+---
 
