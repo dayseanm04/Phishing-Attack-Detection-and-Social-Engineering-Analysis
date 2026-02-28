@@ -40,4 +40,13 @@ TJDKHDLUSQQJMNMFTOKXIZTYHLJKDLHSBXGIQQ"
 
 A legitimate U.S. lottery organization would not use an Japanese domain. This is a major **red flag**.
 
+---
+
+### 2. Generic Greeting
+
+- The message does not include the recipient’s name  
+- It uses a generic statements  
+
+Legitimate prize notifications would have included verified recipient details.
+
 
