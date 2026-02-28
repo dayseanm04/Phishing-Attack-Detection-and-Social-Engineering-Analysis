@@ -22,6 +22,12 @@ The email includes an attachment titled:
 
 The body of the email states:
 
-“Congratulation you have won the usa mega millions email lottery.attachements below is your winner prize information view the procedures on how to claim your prize”
+“Congratulation you have won the usa mega millions email lottery.attachements below is your winner prize information view the procedures on how to claim your prize
 
 TJDKHDLUSQQJMNMFTOKXIZTYHLJKDLHSBXGIQQ"
+
+---
+
+## Security Analysis  
+
+### 1. Sender Address Mismatch  
