@@ -5,4 +5,5 @@ Suspicious Email (Extortion / Blackmail Scam)
 
 ## Email Screenshot  
 
+![Extortion Email Screenshot](02-Images/Example-04-extortion.png)
 
