@@ -70,7 +70,8 @@ There are no spelling errors or suspicious writing patterns.
 | Suspicious sender domain | No |
 | Poor grammar or spelling | No |
 | Urgency or threats | No |
-
+| Unexpected attachment | No |
+| Requests money | No |
 
 
 
