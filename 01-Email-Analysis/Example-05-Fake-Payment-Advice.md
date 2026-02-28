@@ -60,4 +60,20 @@ PDF attachments in phishing emails may:
 
 Opening unexpected financial attachments presents a significant security risk.
 
+---
+
+## Phishing Indicator Checklist Review  
+
+| Indicator | Present |
+|------------|----------|
+| Requests sensitive information | Potential |
+
+
+
+
+
+
+
+
+
 
