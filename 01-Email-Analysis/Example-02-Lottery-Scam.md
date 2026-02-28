@@ -73,3 +73,19 @@ Unexpected attachments from unknown senders should be treated as high risk (**`R
 
 ### 5. Unrealistic Claim  
 - The recipient is told they won a lottery (the recipient probably did not enter)
+
+---
+
+## Phishing Indicator Checklist Review  
+
+| Indicator | Present |
+|------------|----------|
+| Requests sensitive information | Likely |
+
+
+
+
+
+
+
+
