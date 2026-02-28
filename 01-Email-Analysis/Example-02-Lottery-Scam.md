@@ -15,3 +15,7 @@ This email claims that the recipient has won the USA Mega Millions email lottery
 
 **Displayed Sender Name:** USA-Lottery  
 **Actual Sender Email:** info@kysmaq.co.jp  
+
+The email includes an attachment titled:
+
+**`CONGRATULATION-COLO.pdf`**
