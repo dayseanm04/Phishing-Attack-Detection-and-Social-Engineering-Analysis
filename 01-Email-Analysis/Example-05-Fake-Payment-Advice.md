@@ -56,6 +56,8 @@ This suggests an impersonation attempt designed to trick the recipient into open
 PDF attachments in phishing emails may:
 
 - Contain malicious scripts
+- Deliver a malware  
 
+Opening unexpected financial attachments presents a significant security risk.
 
 
