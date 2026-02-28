@@ -46,6 +46,7 @@ A non-government domain is being used to impersonate a federal agency is a major
 
 - The email directs the recipient to: **http://www.update.fdic.gov**
 - The link uses **HTTP** instead of **HTTPS**, meaning the connection is unencrypted and unsecured
+- The FDIC does not have a **update.fdic.gov** subdomain
 
 
 
