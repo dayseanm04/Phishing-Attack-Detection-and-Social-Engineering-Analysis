@@ -5,3 +5,5 @@ Suspicious Email (Impersonation / Malicious Attachment)
 
 
 ## Email Screenshot  
+
+![Fake Payment Advice Email Screenshot](/02-Images/Example-05-fake-payment-advice.png)
