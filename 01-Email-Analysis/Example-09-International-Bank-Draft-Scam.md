@@ -66,4 +66,11 @@ The structure of this email follows a well-known advance-fee fraud format:
 
 Victims are typically later asked to pay "processing fees," "taxes," or "transfer costs" before receiving anything.
 
+---
 
+### 4. Request for Personal Information  
+
+- The email explicitly asks the recipient to send their **full information** to **Jacob Lycama** 
+- Sharing personal details (full name, address, phone number, email, country) with unknown parties can cause identity theft and fraud
+
+---
