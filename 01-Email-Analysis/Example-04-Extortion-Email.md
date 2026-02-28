@@ -40,6 +40,9 @@ This is an intimidation tactic used in sextortion and blackmail scams.
 
 ---
 
+### 3. Cryptocurrency Payment Request  
+- The sender demands $3,000 in Bitcoin  
+- A Bitcoin wallet address is included in the email
 
 
 
