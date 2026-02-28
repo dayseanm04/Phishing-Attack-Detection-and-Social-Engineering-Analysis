@@ -19,3 +19,8 @@ I SEND THE MONEY TO YOUR NAME SEE PAYMENT COPY IN ATTACH
 **Displayed Sender Name:** Theresa Baustert  
 **Sender Email:** tbaust@lps.org  
 
+**Attachments:**
+- Payment Copy 1.html (669 bytes)  
+- Payment Copy 1.html (1 KB)  
+
+**Email Body:**
