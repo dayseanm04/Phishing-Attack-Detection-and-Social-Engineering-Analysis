@@ -63,5 +63,22 @@ This is a clear identity mismatch and indicates spoofing or impersonation.
 - The domain **uwv.nl** belongs to the Netherlands (.nl)
 - The message claims to be from a U.S. Marine in Iraq  
 
+There is no logical connection between a Dutch domain and a deployed U.S. military officer.
+
+---
+
+### 3. Classic Advance-Fee Scam Pattern (419)
+
+The structure of the email follows a well-known advance-fee fraud format:
+
+- Claims discovery of hidden money
+- Mentions Saddam’s palace to add credibility
+- Offers $500,000
+- Requests assistance transferring funds
+- Moves conversation to a personal email address
+
+
+
+
 
 
