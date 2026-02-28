@@ -64,5 +64,7 @@ This is just an extortion email
 | Suspicious sender domain | Yes |
 | Unprofessionalism | Yes |
 | Urgency or threats | Yes |
+| Requests money | Yes |
+| Cryptocurrency payment | Yes |
 
 
