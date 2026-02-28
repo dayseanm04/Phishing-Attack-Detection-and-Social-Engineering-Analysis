@@ -23,7 +23,7 @@ Each email was evaluated using the following security criteria:
 - Requests for sensitive or personal information
 - Incorrect recipient name or mismatched details
 - Suspicious or spoofed sender address
-- Grammar and spelling errors
+- Bad grammar and spelling errors
 - Urgency tactics or threatening language
 - Suspicious links or website redirects
 - Unexpected attachments
