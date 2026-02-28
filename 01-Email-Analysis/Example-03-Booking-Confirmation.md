@@ -41,4 +41,7 @@ There is no mismatch between the subject, content, and purpose of the email.
 - The email does not request banking details  
 - The email does not request personal data  
 
+This email appears to be a moving schedule agreement confirmation.
+
+---
 
