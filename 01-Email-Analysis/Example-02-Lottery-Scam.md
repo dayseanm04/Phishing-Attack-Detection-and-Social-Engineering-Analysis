@@ -22,7 +22,7 @@ The email includes an attachment titled:
 
 The body of the email states:
 
-“Congratulation you have won the usa mega millions email lottery.attachements below is your winner prize information view the procedures on how to claim your prize
+“Congratulations you have won the usa mega millions email lottery.attachements below is your winner prize information view the procedures on how to claim your prize
 
 TJDKHDLUSQQJMNMFTOKXIZTYHLJKDLHSBXGIQQ"
 
@@ -48,5 +48,12 @@ A legitimate U.S. lottery organization would not use an Japanese domain. This is
 - It uses a generic statements  
 
 Legitimate prize notifications would have included verified recipient details.
+
+---
+
+### 3. Grammar and Spelling Errors  
+The email contains multiple errors:
+
+
 
 
