@@ -42,3 +42,16 @@ The use of a vague “company.com” domain is a major red flag.
 Banks typically provide statements through secure portals rather than random email attachments.
 
 ---
+
+### 3. Impersonation Attempt  
+- The message attempts to appear as a financial notification  
+- The sender identity does not match any legitimate institution  
+- There is no verification of the recipient’s identity  
+
+This suggests an impersonation attempt designed to trick the recipient into opening the attachment.
+
+---
+
+
+
+
