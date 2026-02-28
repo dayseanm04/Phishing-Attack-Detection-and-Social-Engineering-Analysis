@@ -33,3 +33,14 @@ Best Regards.
 Daniel Arscott
 
 ---
+
+
+## Security Analysis  
+
+### 1. Sender Domain Does Not Match the Claimed Location  
+
+- The email claims that **Daniel Arscott** is currently in **Japan** with his family
+- However, the sender's email is **hilariocasimiro@uol.com.br** — the **.br** domain extension belongs to **Brazil**, not Japan
+This inconsistency suggests the sender's identity and story are fabricated.
+
+
