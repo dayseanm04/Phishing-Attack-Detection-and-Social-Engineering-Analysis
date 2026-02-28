@@ -90,7 +90,17 @@ Western Union scams are commonly used in phishing campaigns.
 
 ---
 
+## Phishing Indicator Checklist Review  
 
+| Indicator | Present |
+|------------|----------|
+| Requests sensitive information | Likely |
+| Suspicious sender behavior | Yes |
+| Identity mismatch | Yes |
+| Poor grammar | Yes |
+| Unexpected attachment | Yes |
+| Dangerous file type (.html) | Yes |
+| Financial lure | Yes |
 
 
 
