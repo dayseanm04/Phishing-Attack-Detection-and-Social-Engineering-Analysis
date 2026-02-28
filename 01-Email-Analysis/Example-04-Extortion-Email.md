@@ -16,4 +16,6 @@ This email is a threatening extortion message demanding payment in Bitcoin.
 **Displayed Sender Name:** Vincenz Cruz  
 **Actual Sender Email:** ihtcletisjix@outlook.com  
 
+The sender claims to have compromising information about the recipient and threatens to expose them unless a payment of $3,000 is sent via Bitcoin. A cryptocurrency wallet address is included in the email.
 
+---
