@@ -38,3 +38,7 @@ Uzman Shamsi"
 ### 1. Poor Grammar and Unprofessional Language  
 The email body contains multiple grammatical errors:
 
+- “I just send the money” instead of “I just sent the money”  
+- “as ask” instead of “as asked”  
+- “western union” not capitalized  
+
