@@ -33,4 +33,5 @@ TJDKHDLUSQQJMNMFTOKXIZTYHLJKDLHSBXGIQQ"
 ### 1. Sender Address Mismatch
 - The email claims to be from a USA lottery organization  
 - The actual sender domain is **kysmaq.co.jp**  
+- The **.jp** domain indicates Japan  
 
