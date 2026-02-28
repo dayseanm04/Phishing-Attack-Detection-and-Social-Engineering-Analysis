@@ -20,11 +20,16 @@ This email claims to be from a Daniel Arscott, who says he has successfully tran
 
 ## Email Body
 
-"Dear Friend,
+Dear Friend,
 
-This is to thank you for your effort, I understood that your hands were tied, But Not to worry I have succeeded, the money has been transfered into the account provided by a newly found friend of mine in Japan.To compensate you for your past assistance and commitments, i have droped an International Certified Bank Draft cheque worth of $1.5 million US dollars, for you. I am in Japan with my family presently. I do intend to establish some business concers here, and possibly buy some properties. Contact JACOB LYCAMA on His Email: (jacoblycama@ymail.com), Send him your full<br/>
-information to send you the cheque
+This is to thank you for your effort, I understood that your hands were tied, But Not to worry I have succeeded, the money has been transfered into the account provided by a newly found friend of mine in Japan.To compensate you for your past assistance and commitments, i have droped an International Certified Bank Draft cheque worth of $1.5 million US dollars, for you. I am in Japan with my family presently. I do intend to establish some business concers here, and possibly buy some properties. Contact JACOB LYCAMA on His Email: (jacoblycama@ymail.com), Send him your full information to send you the cheque
 
-"
+1.Full names:___________
+2.Address:___________
+3.E-mail address:___________
+4.Telephone number: ___________
+5.Country:___________
+Best Regards.
+Daniel Arscott
 
 ---
