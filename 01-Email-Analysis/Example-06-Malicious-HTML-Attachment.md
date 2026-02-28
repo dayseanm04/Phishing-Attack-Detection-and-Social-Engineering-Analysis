@@ -31,4 +31,10 @@ I just send the money to your name as ask via western union money transfer.
 Regards,  
 Uzman Shamsi"
 
+---
+
+## Security Analysis  
+
+### 1. Poor Grammar and Unprofessional Language  
+The email body contains multiple grammatical errors:
 
