@@ -53,6 +53,7 @@ Legitimate prize notifications would have included verified recipient details.
 
 ### 3. Grammar and Spelling Errors  
 The email contains multiple errors:
+- Missing spacing and punctuation  
 
 
 
