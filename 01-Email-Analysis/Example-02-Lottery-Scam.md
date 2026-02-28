@@ -59,6 +59,7 @@ The email contains multiple errors:
 - Instead of something like:
    -  "**`Congratulations you have won the usa mega millions lottery. Attached below is your winner prize information, view the procedures on how to claim your prize`**"
 
+Poor grammar is a common phishing indicator.
 
 
 
