@@ -52,6 +52,10 @@ This suggests an impersonation attempt designed to trick the recipient into open
 
 ---
 
+### 4. Malware Delivery Risk  
+PDF attachments in phishing emails may:
+
+- Contain malicious scripts
 
 
 
