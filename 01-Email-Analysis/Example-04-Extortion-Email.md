@@ -44,5 +44,14 @@ This is an intimidation tactic used in sextortion and blackmail scams.
 - The sender demands $3,000 in Bitcoin  
 - A Bitcoin wallet address is included in the email
 
+Cryptocurrency is commonly used in scams because transactions are difficult to trace.
+
+---
+
+### 4. Lack of Evidence  
+- The sender did not provides any proof of the alleged claims  
+- The message relies solely on fear and urgency
+
+
 
 
