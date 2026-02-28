@@ -67,5 +67,14 @@ HTML files are web page files and can:
 - Execute malicious scripts  
 - Deliver malware  
 
+Legitimate financial institutions typically send secure PDFs (Bank statements or Tax Documents) or provide access through verified portals not HTML files.
 
+---
+
+### 4. Duplicate Attachments  
+
+- Two files share the same name  
+- File sizes are extremely small (669 bytes and 1 KB)  
+
+---
 
