@@ -42,5 +42,10 @@ A non-government domain is being used to impersonate a federal agency is a major
 ---
 
 
+### 2. Suspicious and Unofficial Link  
+
+- The email directs the recipient to: **http://www.update.fdic.gov**
+- The link uses **HTTP** instead of **HTTPS**, meaning the connection is unencrypted and unsecured
+
 
 
