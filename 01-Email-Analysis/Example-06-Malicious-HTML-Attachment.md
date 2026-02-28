@@ -24,3 +24,11 @@ I SEND THE MONEY TO YOUR NAME SEE PAYMENT COPY IN ATTACH
 - Payment Copy 1.html (1 KB)  
 
 **Email Body:**
+
+"Please find attached:  
+I just send the money to your name as ask via western union money transfer.  
+ 
+Regards,  
+Uzman Shamsi"
+
+
