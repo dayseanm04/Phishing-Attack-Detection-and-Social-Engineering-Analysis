@@ -47,7 +47,8 @@ This email appears to be a moving schedule agreement confirmation.
 
 ### 3. Professional Formatting and Grammar  
 - The grammar is correct  
-- The formatting is professional  
+- The formatting is professional
+- One thing I noticed is that the email didnt greet the recipient (eg: Dear ...)
 
 There are no spelling errors or suspicious writing patterns.
 
@@ -65,7 +66,8 @@ There are no spelling errors or suspicious writing patterns.
 | Indicator | Present |
 |------------|----------|
 | Requests sensitive information | No |
-
+| Incorrect recipient details | No |
+| Suspicious sender domain | No |
 
 
 
