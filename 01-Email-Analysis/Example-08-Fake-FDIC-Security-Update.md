@@ -35,7 +35,11 @@ Best regards, Online security department Federal Deposit Insurance Corporation.
 
 - The email claims to be from the **FDIC**, a U.S. federal government agency
 - The actual sender email is **Opal@boomansion.net**
+- Government agencies use **.gov** domains — any legitimate FDIC communication would come from an address ending in **@fdic.gov**
 
+A non-government domain is being used to impersonate a federal agency is a major red flag.
+
+---
 
 
 
