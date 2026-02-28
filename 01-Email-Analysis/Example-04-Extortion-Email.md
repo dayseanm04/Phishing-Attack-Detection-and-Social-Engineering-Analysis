@@ -30,3 +30,11 @@ The sender claims to have compromising information about the recipient and threa
 The sender does not appear to represent any legitimate organization.
 
 ---
+
+### 2. Threat-Based Social Engineering  
+- The email threatens to expose the recipient  
+- It attempts to create fear and panic
+
+
+
+
