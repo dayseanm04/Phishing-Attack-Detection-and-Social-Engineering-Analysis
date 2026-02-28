@@ -54,6 +54,14 @@ Capt. James Micheal.
 - The message claims to be from **Capt. James Micheal**
 - The recipient is instructed to reply to **capt.james001@sify.com**
 
+This is a clear identity mismatch and indicates spoofing or impersonation.
+
+---
+
+### 2. Suspicious Domain  
+
+- The domain **uwv.nl** belongs to the Netherlands (.nl)
+- The message claims to be from a U.S. Marine in Iraq  
 
 
 
