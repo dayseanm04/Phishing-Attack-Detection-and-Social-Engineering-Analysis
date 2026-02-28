@@ -1,4 +1,4 @@
-# Phishing Email Detection & Social Engineering Analysis Lab
+# Phishing Attack Detection & Social Engineering Analysis Lab
 
 ## Overview
 
