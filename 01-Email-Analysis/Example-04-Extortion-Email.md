@@ -62,5 +62,7 @@ This is just an extortion email
 |------------|----------|
 | Requests sensitive information | No |
 | Suspicious sender domain | Yes |
+| Unprofessionalism | Yes |
+| Urgency or threats | Yes |
 
 
