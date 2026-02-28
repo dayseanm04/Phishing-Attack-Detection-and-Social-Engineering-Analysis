@@ -18,3 +18,14 @@ This email claims to be from the FDIC (Federal Deposit Insurance Corporation), a
 
 ---
 
+
+Dear client,
+
+Your account **ACH and Wire transactions** have been **temporarily suspended** for your Security.<br/>
+due to the expiration of your security version <br/><br/>
+To download and install the newest Updates, follow this link security **http://www.update.fdic.gov**<br/>
+
+As soon as it is set up, your transaction abilities will be fully restored.
+Best regards, Online security department Federal Deposit Insurance Corporation.
+
+---
