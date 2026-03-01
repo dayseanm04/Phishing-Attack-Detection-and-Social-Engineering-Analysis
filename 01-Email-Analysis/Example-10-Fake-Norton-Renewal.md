@@ -55,3 +55,43 @@ This inconsistency reveals the email was carelessly crafted and is not from a re
 - Calling this number connects the recipient directly to the scammer, who will pose as a Norton representative and attempt to steal personal or financial information
 
 ---
+
+### 5. Generic Greeting  
+
+- The email starts with with **"Dear Sir/Madam"** rather than the recipient's actual name
+- A real subscription service like Norton would address the account holder by their registered name
+- Generic greetings confirm this was sent in bulk to many targets with no personalization
+
+---
+
+### 6. COVID-19 Used as a False Excuse  
+
+- The email states: **"Due to COVID-19 we are unable to notify each customer through a confirmation call"**
+- This is used to explain away why the recipient did not receive a prior warning about the charge
+- Exploiting a global pandemic as a social engineering excuse is a manipulative tactic designed to make the story seem believable
+
+---
+
+### 7. 8. No Official Order Confirmation Details  
+
+- Real subscription renewal emails include links to the customer's account dashboard and verifiable transaction records
+- The email provides only a phone number, which is to connect the recipient toward direct contact with the scammer
+
+---
+
+
+## Phishing Indicator Checklist Review  
+
+| Indicator | Present |
+|------------|----------|
+| Suspicious sender domain (Gmail) | Yes |
+| Inconsistent charge amounts | Yes |
+| Urgency / fear-based manipulation | Yes |
+| Suspicious helpline number | Yes |
+| Generic greeting (no recipient name) | Yes |
+| COVID-19 used as an excuse | Yes |
+| No verifiable account or order details | Yes |
+
+Multiple critical phishing indicators are present.
+
+---
