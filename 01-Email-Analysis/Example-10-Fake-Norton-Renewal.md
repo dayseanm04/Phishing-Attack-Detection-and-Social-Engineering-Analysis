@@ -40,3 +40,10 @@ This inconsistency reveals the email was carelessly crafted and is not from a re
 
 ---
 
+### 3. Urgency and Fear-Based Social Engineering  
+
+- The email informs the recipient that money has **already been charged** to their account
+- This creates immediate panic, pressuring the recipient to call the helpline number without thinking
+- The goal is to get the recipient on the phone, where scammers will attempt to extract personal and financial information such as credit card numbers or bank account details
+
+---
