@@ -55,3 +55,20 @@ Out of 10 emails reviewed, **9 were identified as suspicious** and **2 was ident
 **Notes:** The email was a well-written booking confirmation from Bears Moving Co. The subject line included the company name, date, client name, and time. Payment methods were listed informally but no payment was requested via email.
 
 ---
+
+### Example 04 – Extortion Email
+**Verdict: 🚨 Suspicious**
+
+| Indicator | Present |
+|------------|----------|
+| Requests money | Yes |
+| Threatening language | Yes |
+| Suspicious sender domain | Yes |
+| Urgency / fear-based manipulation | Yes |
+| Bitcoin payment requested | Yes |
+
+**Notes:** The email was a blackmail attempt threatening to expose the recipient for watching inappropriate videos unless they send $3,000 via Bitcoin. The sender provided a Bitcoin wallet address.
+
+---
+
+
