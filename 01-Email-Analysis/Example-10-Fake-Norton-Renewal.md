@@ -29,3 +29,14 @@ This email claims to be from Norton, informing the recipient that their Norton L
 - The number **20** and the word **"notron"** (instead of Norton) in the address suggest this is a created fake account
 
 ---
+
+### 2. Inconsistent Charge Amounts  
+
+- The header of the email lists the charge as **$480.87**
+- The body of the email states the transaction will be **$399.99**
+- These two amounts do not match, which would never occur in a legitimate automated billing notification
+
+This inconsistency reveals the email was carelessly crafted and is not from a real billing system.
+
+---
+
