@@ -98,3 +98,55 @@ Out of 10 emails reviewed, **9 were identified as suspicious** and **2 was ident
 **Notes:** The email was sent by Theresa Baustert but signed off as Uzman Shamsi. The subject line was written in all caps and was highly unprofessional. The two attached HTML files were suspicious, HTML attachments can open fake webpages designed to steal user credentials.
 
 ---
+
+### Example 07 – Military Inheritance Scam
+**Verdict: 🚨 Suspicious**
+
+| Indicator | Present |
+|------------|----------|
+| Requests sensitive information | Likely |
+| Suspicious sender domain | Yes |
+| Identity mismatch | Yes |
+| Unrealistic financial reward | Yes |
+| Authority impersonation | Yes |
+| Urgency / emotional manipulation | Yes |
+| Use of alternate contact email | Yes |
+
+**Notes:** The email claimed to be from a U.S. Marine Corps Captain in Iraq but was sent from a Dutch domain (@uwv.nl). The recipient was instructed to reply to a separate personal email address. The offer of $500,000 from funds found near Saddam's palace is a classic advance-fee (419) scam tactic.
+
+---
+
+### Example 08 – Fake FDIC Security Update
+**Verdict: 🚨 Suspicious**
+
+| Indicator | Present |
+|------------|----------|
+| Suspicious sender domain | Yes |
+| Government impersonation | Yes |
+| Unsecured / suspicious link (HTTP) | Yes |
+| Vague technical reasoning | Yes |
+| Urgency / fear-based manipulation | Yes |
+| Generic greeting (no recipient name) | Yes |
+| Bold formatting used to induce panic | Yes |
+
+**Notes:** The email impersonated the FDIC using a non government email domain (@boomansion.net). The link provided used HTTP instead of HTTPS and pointed to a fake FDIC subdomain. Phrases like "temporarily suspended" and "ACH and Wire Transactions" were bolded to cause panic.
+
+---
+
+### Example 09 – Advance-Fee Scam (Fake Bank Draft)
+**Verdict: 🚨 Suspicious**
+
+| Indicator | Present |
+|------------|----------|
+| Requests personal information | Yes |
+| Suspicious sender domain | Yes |
+| Sender name and email mismatch | Yes |
+| Unrealistic financial reward | Yes |
+| Advance-fee scam pattern (419) | Yes |
+| Use of third-party contact email | Yes |
+| Poor grammar and spelling | Yes |
+| Generic greeting (no recipient name) | Yes |
+
+**Notes:** The sender claimed to be Daniel Arscott writing from Japan, but the email domain was Brazilian (.br). Multiple spelling errors were present including "transfered", "droped", and "concers". The information request at the bottom lacked spaces between numbers and fields, and used "Full names" instead of "Full name". The recipient was asked to send personal details to a third-party Yahoo email address to claim a $1.5 million bank draft.
+
+---
