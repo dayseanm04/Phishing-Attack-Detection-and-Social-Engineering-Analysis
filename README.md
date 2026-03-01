@@ -1,41 +1,5 @@
-# Phishing Attack Detection & Social Engineering Analysis Lab
+#  Phishing Attack Detection and Social Engineering Analysis
 
-## Overview
-
-This lab simulates a real-world help desk and security operations center environment where suspicious emails are submitted for review. 
-
-The objective is to analyze each email, determine whether it's legitimate or malicious, and document justification for the decision. The lab focuses on identifying phishing indicators, detecting social engineering tactics, and applying structured email security analysis techniques.
+This lab is a hands-on cybersecurity lab where I analyzed 10 real-world email samples to identify phishing attempts, social engineering tactics, and security threats. I evaluated each email using a structured security checklist, documented with detailed findings, and assigned a risk level and final verdict.
 
 ---
-
-## Scenario
-
-Assume the role of a help desk analyst reviewing emails submitted by employees who believe they may have received suspicious email.
-
-Each email must be evaluated using a structured phishing detection checklist. For any suspicious email, specific indicators must be identified and explained.
-
----
-
-## Analysis Methodology
-
-Each email was evaluated using the following security criteria:
-
-- Requests for sensitive or personal information
-- Incorrect recipient name or mismatched details
-- Suspicious or spoofed sender address
-- Bad grammar and spelling errors
-- Urgency tactics or threatening language
-- Suspicious links or website redirects
-- Unexpected attachments
-- Requests for money or financial transactions
-- Domain mismatches
-- Inconsistent branding or formatting
-
-
-
-
-
-
-
-
-
