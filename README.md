@@ -61,3 +61,7 @@ Each example was then assigned one of the following verdicts:
 | Scam Types Identified | Advance-Fee, Brand Impersonation, Government Impersonation, Extortion, Vishing |
 
 ---
+
+## Author
+
+**daysean mensah**  
