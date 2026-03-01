@@ -79,3 +79,36 @@ Poor writing quality is a reliable signal that an email is not from a profession
 
 ---
 
+## 8. Watch for Identity and Signature Mismatches
+
+Several emails in this lab were signed by one person but sent from another person's email address, or instructed the recipient to reply to a completely different address.
+
+- Always compare the sender's name, email address, and the signature at the bottom of the email
+- If you are told to contact someone at a different email than the one the message was sent from, this is a strong indicator of fraud
+- Third-party contact emails especially free email accounts used to claim prizes or transfers are almost always scams
+
+---
+
+## 9. Use Email Security Tools and Spam Filters
+
+Technology can serve as a first line of defense against phishing emails.
+
+- Ensure your email client's spam filter is enabled and up to date
+- Many modern email platforms flag suspicious senders, external links, and potentially harmful attachments automatically
+- Consider enabling multi-factor authentication (MFA) on all accounts so that even if credentials are stolen, unauthorized access is prevented
+
+---
+
+## 10. Report Suspicious Emails
+
+If you receive a phishing email, reporting it helps protect others.
+
+- Forward suspicious emails to your organization's IT or security team
+- Report the email
+- Delete the email after reporting and do not interact with any links, attachments, or phone numbers it contains
+
+---
+
+## Final Thoughts
+
+Phishing attacks succeed because they exploit human instincts, fear, greed, urgency, and trust. The best defense is awareness. By understanding the tactics used by scammers and applying the habits outlined in this document, individuals and organizations can significantly reduce the risk of falling victim to email-based attacks.
