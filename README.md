@@ -24,7 +24,7 @@ This project simulates the role of a **help-desk security analyst** responsible 
 | [Example 05 – Fake Payment Advice](./01-Email-Analysis/Example-05-Fake-Payment-Advice.md) | Bank Impersonation | 🚨 Phishing |
 | [Example 06 – Malicious HTML Attachment](./01-Email-Analysis/Example-06-Malicious-HTML-Attachment.md) | Malicious Attachment | 🚨 Phishing |
 | [Example 07 – Military Inheritance Scam](./01-Email-Analysis/Example-07-Military-Inheritance-Scam.md) | Authority Impersonation / 419 Scam | 🚨 Phishing |
-| [Example 08 – Fake FDIC Update](./01-Email-Analysis/Example-08-Fake-FDIC-Update.md) | Government Impersonation | 🚨 Phishing |
+| [Example 08 – Fake FDIC Update](./01-Email-Analysis/Example-08-Fake-FDIC-Security-Update.md) | Government Impersonation | 🚨 Phishing |
 | [Example 09 – Advance-Fee Scam](/01-Email-Analysis/Example-09-International-Bank-Draft-Scam.md) | Identity Deception / 419 Scam | 🚨 Phishing |
 | [Example 10 – Fake Norton Renewal](./01-Email-Analysis/Example-10-Fake-Norton-Renewal.md) | Brand Impersonation / Vishing Setup | 🚨 Phishing |
 
