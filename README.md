@@ -4,14 +4,27 @@ This lab is a hands-on cybersecurity project where I analyzed 10 real-world emai
 
 ---
 
-## About This Project
+## About This Lab/Project
 
-This project simulates the role of a **help-desk security analyst** responsible for reviewing suspicious emails reported by employees. The goal was to develop practical skills in:
+This Lab/project simulates the role of a **help-desk security analyst** responsible for reviewing suspicious emails reported by employees. The goal was to develop practical skills in:
 
 - Identifying phishing indicators and social engineering techniques
 - Analyzing sender domains, email headers, and message content
 - Recognizing common scam patterns such as advance-fee fraud, brand impersonation, and government impersonation
 - Documenting security findings
+
+---
+
+## 🔗 Quick Navigation
+
+| File / Folder | Description |
+|------|-------------|
+| [**`01-Email-Analysis/`**](./01-Email-Analysis/) | Folder containing all 10 individual email analysis files |
+| [**`02-Images/`**](./02-Images/) | Folder containing all email screenshots referenced in the analysis |
+| [**`01-Lab-Objectives.md`**](01-Lab-Objectives.md) | Lab goals and evaluation checklist |
+| [**`02-Phishing-Indicators-Summary.md`**](02-Phishing-Indicators-Summary.md) | Full summary of all 10 examples with verdicts and indicator tables |
+| [**`03-Security-Recommendations.md`**](03-Security-Recommendations.md) | Security best practices and lessons learned |
+| [**`04-Phishing-Email-Analysis-Raw-Documentation`**](04-Phishing-Email-Analysis-Raw-Documentation.md) | Original raw documentation and notes used throughout the lab |
 
 ### Email Analysis Examples
 
