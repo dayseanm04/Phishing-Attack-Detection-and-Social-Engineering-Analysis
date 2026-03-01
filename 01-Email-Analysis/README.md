@@ -20,3 +20,19 @@ This folder contains the individual security analysis reports for all 10 email e
 | [**`Example 10 – Fake Norton Renewal`**](Example-10-Fake-Norton-Renewal.md) | Brand Impersonation / Vishing Setup | 🚨 Phishing |
 
 ---
+
+## Analysis Format
+
+Each example follows the same structured format:
+
+- **Classification** — the type of email or scam
+- **Scenario Summary** — sender details and a brief overview of the email's claims
+- **Security Analysis** — a numbered breakdown of each identified red flag
+- **Phishing Indicator Checklist** — a table summarizing which indicators were present
+- **Final Assessment** — conclusion and assigned risk level
+
+---
+
+## Back to Main Repository
+
+[**`← Return to Main README`**](../README.md)
