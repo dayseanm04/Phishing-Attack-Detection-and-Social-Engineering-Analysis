@@ -11,7 +11,7 @@ This folder contains the individual security analysis reports for all 10 email e
 | [**`Example 01 – Trusted Dropbox`**](Example-01-Trusted-Dropbox.md) | File Sharing Notification | ✅ Legitimate |
 | [**`Example 02 – Lottery Scam`**](Example-02-Lottery-Scam.md) | Advance-Fee / Fake Reward | 🚨 Phishing |
 | [**`Example 03 – Booking Confirmation`**](Example-03-Booking-Confirmation.md) | Service Confirmation Email | ✅ Legitimate |
-| [**`Example 04 – Extortion Email`**](./01-Email-Analysis/Example-04-Extortion-Email.md) | Blackmail / Extortion | 🚨 Phishing |
+| [**`Example 04 – Extortion Email`**](Example-04-Extortion-Email.md) | Blackmail / Extortion | 🚨 Phishing |
 | [**`Example 05 – Fake Payment Advice`**](Example-05-Fake-Payment-Advice.md) | Bank Impersonation | 🚨 Phishing |
 | [**`Example 06 – Malicious HTML Attachment`**](Example-06-Malicious-HTML-Attachment.md) | Malicious Attachment | 🚨 Phishing |
 | [**`Example 07 – Military Inheritance Scam`**](Example-07-Military-Inheritance-Scam.md) | Authority Impersonation / 419 Scam | 🚨 Phishing |
