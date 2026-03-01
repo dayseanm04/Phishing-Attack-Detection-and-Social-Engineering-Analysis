@@ -71,4 +71,30 @@ Out of 10 emails reviewed, **9 were identified as suspicious** and **2 was ident
 
 ---
 
+### Example 05 – Fake Payment Advice
+**Verdict: 🚨 Suspicious**
 
+| Indicator | Present |
+|------------|----------|
+| Suspicious sender domain | Yes |
+| Suspicious attachment | Yes |
+| Impersonating a bank | Yes |
+| Not sent from a no-reply address | Yes |
+
+**Notes:** The email was sent from mail_server@company.com, a vague and unverified domain. It included a "Payment Advice.pdf" attachment, which banks do not send unsolicited. A legitimate bank notification would come from a verified no-reply address with the bank's official domain.
+
+---
+
+### Example 06 – Malicious HTML Attachment
+**Verdict: 🚨 Suspicious**
+
+| Indicator | Present |
+|------------|----------|
+| Sender name and signature mismatch | Yes |
+| Suspicious attachment (HTML files) | Yes |
+| Unprofessional subject line | Yes |
+| Identity mismatch | Yes |
+
+**Notes:** The email was sent by Theresa Baustert but signed off as Uzman Shamsi. The subject line was written in all caps and was highly unprofessional. The two attached HTML files were suspicious, HTML attachments can open fake webpages designed to steal user credentials.
+
+---
