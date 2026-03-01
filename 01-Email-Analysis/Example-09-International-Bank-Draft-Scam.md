@@ -92,16 +92,39 @@ The email contains multiple errors, including:
 - Inconsistent capitalization (e.g., **"His Email"**)
 - Missing spaces
 - The information request at the bottom was:
-  - 1.Full names:___
-  - 2.Address:___
-  - 3.E-mail address:___
-  - 4.Telephone number:___
-  - 5.Country:___ 
+  - 1.Full names:______
+  - 2.Address:______
+  - 3.E-mail address:______
+  - 4.Telephone number:______
+  - 5.Country:______
 - There are no spaces between the numbers and the items being requested
 - The sender writes **"Full names"** (plural) instead of *Full name*, which is grammatically incorrect and not how a legitimate institution would phrase a form field
 
 Professional or legitimate financial communication does not contain these types of errors.
 
+---
 
+### 7. Use of a Third-Party Contact Email  
+
+- The recipient is told to contact **Jacob Lycama** at **jacoblycama@ymail.com**
+
+---
+
+## Phishing Indicator Checklist Review  
+
+| Indicator | Present |
+|------------|----------|
+| Requests personal information | Yes |
+| Suspicious sender domain | Yes |
+| Sender name and email mismatch | Yes |
+| Unrealistic financial reward | Yes |
+| Advance-fee scam pattern (419) | Yes |
+| Use of third-party contact email | Yes |
+| Poor grammar and spelling | Yes |
+| Generic greeting (no recipient name) | Yes |
+
+Multiple critical phishing indicators are present.
+
+---
 
 
