@@ -37,3 +37,21 @@ Out of 10 emails reviewed, **9 were identified as suspicious** and **2 was ident
 | Suspicious attachment | Yes |
 
 **Notes:** The email claimed to be from a US lottery but was sent from a Japanese domain (.jp). The body contained grammatical errors, no spaces after punctuation, and a suspicious PDF attachment. The recipient's name was not included in the congratulatory message.
+
+---
+
+### Example 03 – Booking Confirmation
+**Verdict: ✅ Legitimate**
+
+| Indicator | Present |
+|------------|----------|
+| Requests sensitive information | No |
+| Suspicious sender domain | No |
+| Generic greeting | No |
+| Poor grammar or spelling | No |
+| Urgency / fear-based manipulation | No |
+| Requests money via email | No |
+
+**Notes:** The email was a well-written booking confirmation from Bears Moving Co. The subject line included the company name, date, client name, and time. Payment methods were listed informally but no payment was requested via email.
+
+---
