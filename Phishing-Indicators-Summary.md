@@ -23,3 +23,17 @@ Out of 10 emails reviewed, **9 were identified as suspicious** and **2 was ident
 **Notes:** Email was sent from no-reply@dropbox.com, a verified Dropbox domain. The Dropbox Transfer logo was legitimate. The email was a standard automated notification informing the recipient that a file had been shared with them. No red flags were present.
 
 ---
+
+### Example 02 – Lottery Scam
+**Verdict: 🚨 Suspicious**
+
+| Indicator | Present |
+|------------|----------|
+| Requests sensitive information | Yes |
+| Suspicious sender domain | Yes |
+| Generic greeting (no recipient name) | Yes |
+| Poor grammar or spelling | Yes |
+| Unrealistic financial reward | Yes |
+| Suspicious attachment | Yes |
+
+**Notes:** The email claimed to be from a US lottery but was sent from a Japanese domain (.jp). The body contained grammatical errors, no spaces after punctuation, and a suspicious PDF attachment. The recipient's name was not included in the congratulatory message.
