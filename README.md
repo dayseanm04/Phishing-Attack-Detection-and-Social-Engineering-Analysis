@@ -1,5 +1,31 @@
 #  Phishing Attack Detection and Social Engineering Analysis
 
-This lab is a hands-on cybersecurity lab where I analyzed 10 real-world email samples to identify phishing attempts, social engineering tactics, and security threats. I evaluated each email using a structured security checklist, documented with detailed findings, and assigned a risk level and final verdict.
+This lab is a hands-on cybersecurity project where I analyzed 10 real-world email samples to identify phishing attempts, social engineering tactics, and security threats. I evaluated each email using a structured security checklist, documented with detailed findings, and assigned a risk level and final verdict.
+
+---
+
+## About This Project
+
+This project simulates the role of a **help-desk security analyst** responsible for reviewing suspicious emails reported by employees. The goal was to develop practical skills in:
+
+- Identifying phishing indicators and social engineering techniques
+- Analyzing sender domains, email headers, and message content
+- Recognizing common scam patterns such as advance-fee fraud, brand impersonation, and government impersonation
+- Documenting security findings
+
+### Email Analysis Examples
+
+| Example | Type | Verdict |
+|---------|------|---------|
+| [Example 01 – Trusted Dropbox](./01-Email-Analysis/Example-01-Trusted-Dropbox.md) | File Sharing Notification | ✅ Legitimate |
+| [Example 02 – Lottery Scam](./01-Email-Analysis/Example-02-Lottery-Scam.md) | Advance-Fee / Fake Reward | 🚨 Phishing |
+| [Example 03 – Booking Confirmation](./01-Email-Analysis/Example-03-Booking-Confirmation.md) | Service Confirmation Email | ✅ Legitimate |
+| [Example 04 – Extortion Email](./01-Email-Analysis/Example-04-Extortion-Email.md) | Blackmail / Extortion | 🚨 Phishing |
+| [Example 05 – Fake Payment Advice](./01-Email-Analysis/Example-05-Fake-Payment-Advice.md) | Bank Impersonation | 🚨 Phishing |
+| [Example 06 – Malicious HTML Attachment](./01-Email-Analysis/Example-06-Malicious-HTML-Attachment.md) | Malicious Attachment | 🚨 Phishing |
+| [Example 07 – Military Inheritance Scam](./01-Email-Analysis/Example-07-Military-Inheritance-Scam.md) | Authority Impersonation / 419 Scam | 🚨 Phishing |
+| [Example 08 – Fake FDIC Update](./01-Email-Analysis/Example-08-Fake-FDIC-Update.md) | Government Impersonation | 🚨 Phishing |
+| [Example 09 – Advance-Fee Scam](/01-Email-Analysis/Example-09-International-Bank-Draft-Scam.md) | Identity Deception / 419 Scam | 🚨 Phishing |
+| [Example 10 – Fake Norton Renewal](./01-Email-Analysis/Example-10-Fake-Norton-Renewal.md) | Brand Impersonation / Vishing Setup | 🚨 Phishing |
 
 ---
