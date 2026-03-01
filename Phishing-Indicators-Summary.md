@@ -150,3 +150,32 @@ Out of 10 emails reviewed, **9 were identified as suspicious** and **2 was ident
 **Notes:** The sender claimed to be Daniel Arscott writing from Japan, but the email domain was Brazilian (.br). Multiple spelling errors were present including "transfered", "droped", and "concers". The information request at the bottom lacked spaces between numbers and fields, and used "Full names" instead of "Full name". The recipient was asked to send personal details to a third-party Yahoo email address to claim a $1.5 million bank draft.
 
 ---
+
+
+### Example 10 – Fake Norton Renewal
+**Verdict: 🚨 Suspicious**
+
+| Indicator | Present |
+|------------|----------|
+| Suspicious sender domain (Gmail) | Yes |
+| Inconsistent charge amounts | Yes |
+| Urgency / fear-based manipulation | Yes |
+| Suspicious helpline number | Yes |
+| Generic greeting (no recipient name) | Yes |
+| COVID-19 used as an excuse | Yes |
+
+**Notes:** The email listed two different charge amounts ($480.87 and $399.99) that did not match. A fraudulent helpline number was provided to trick the recipient into calling and giving their financial information. COVID-19 was used as an excuse for why no prior confirmation was sent.
+
+---
+
+## Key Takeaways
+
+**Sender domain is the first thing to check.** In nearly every suspicious email, the sender's domain had no connection to the organization being impersonated. Government agencies use .gov, companies use their own corporate domain, and military personnel do not email from foreign commercial domains.
+
+**Urgency is a weapon.** Most phishing emails create a sense of panic, suspended accounts, unexpected charges, threatening consequences — to pressure the recipient into acting without thinking.
+
+**Generic greetings are a red flag.** Legitimate organizations that have your account information will address you by name. "Dear Friend," "Dear Sir/Madam," and "Dear Client" are common signs of a bulk phishing campaign.
+
+**Financial offers and rewards are almost always scams.** No one is sending you $500,000, a $1.5 million bank draft, or lottery winnings through a random email. These are advance-fee scams designed to extract money or personal information over time.
+
+**Always verify before you act.** If an email asks you to click a link, call a number, download a file, or send money, stop and verify through the organization's official website or a their customer service.
