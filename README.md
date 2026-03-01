@@ -65,3 +65,6 @@ Each example was then assigned one of the following verdicts:
 ## Author
 
 **daysean mensah**  
+Computer Systems student with a concentration in Network & Security. Passionate about threat analysis, security awareness, and building practical, real-world skills through hands-on labs and projects.
+
+This project was completed as part of a personal cybersecurity learning journey. All email samples were used strictly for educational purposes.
