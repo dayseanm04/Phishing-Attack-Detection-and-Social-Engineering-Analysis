@@ -83,3 +83,10 @@ Victims are typically later asked to pay "processing fees," "taxes," or "transfe
 
 ---
 
+### 6. Poor Grammar, Spelling, and Punctuation  
+
+The email contains multiple errors, including:
+
+- **"transfered"** instead of *transferred*
+- **"droped"** instead of *dropped*
+- Inconsistent capitalization (e.g., **"His Email"**)
