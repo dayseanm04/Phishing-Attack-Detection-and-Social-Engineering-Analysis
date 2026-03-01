@@ -18,3 +18,14 @@ This email claims to be from Norton, informing the recipient that their Norton L
 **Sender Email:** notronofficial20@gmail.com
 
 ---
+
+## Security Analysis  
+
+### 1. Sender Domain Does Not Match the Claimed Organization  
+
+- The email claims to be from **Norton**, a well-known cybersecurity company
+- The actual sender email is **notronofficial20@gmail.com**, which is a personal **Gmail** account
+- Legitimate companies send emails from their own corporate domain, such as **@norton.com**
+- The number **20** and the word **"notron"** (instead of Norton) in the address suggest this is a created fake account
+
+---
