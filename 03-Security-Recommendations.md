@@ -48,4 +48,34 @@ Multiple examples in this lab requested personal details such as full name, addr
 
 ---
 
+## 5. Verify Unexpected Financial Notifications Independently
+
+The fake Norton renewal and fake FDIC emails both used financial urgency to manipulate recipients. If you receive an unexpected charge or billing notification:
+
+- Do not call the number provided in the email
+- Look up the company's official customer service number directly from their website
+- Log in to your account directly to verify whether any charges or changes have actually been made
+
+---
+
+## 6. Recognize and Ignore Unrealistic Offers
+
+Advance-fee scams like the Military Inheritance Scam and the Fake Bank Draft rely on the appeal of large, unexpected financial rewards.
+
+- No stranger will send you $500,000 or a $1.5 million bank draft through an unsolicited email
+- If an offer sounds too good to be true, it is
+- These scams eventually ask victims to pay upfront "fees," "taxes," or "processing costs" before any money is delivered — money that is never returned
+- Delete and report these emails immediately and do not engage with the sender
+
+---
+
+## 7. Pay Attention to Grammar, Spelling, and Formatting
+
+Poor writing quality is a reliable signal that an email is not from a professional organization.
+
+- Look for misspelled words, missing spaces, inconsistent capitalization, and awkward sentence structure
+- Be cautious of emails that use bold text aggressively to highlight alarming phrases, this is a manipulation tactic
+- Legitimate organizations proofread their communications and maintain consistent, professional formatting
+
+---
 
