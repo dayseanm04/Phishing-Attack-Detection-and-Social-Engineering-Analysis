@@ -90,3 +90,18 @@ The email contains multiple errors, including:
 - **"transfered"** instead of *transferred*
 - **"droped"** instead of *dropped*
 - Inconsistent capitalization (e.g., **"His Email"**)
+- Missing spaces
+- The information request at the bottom was:
+  - 1.Full names:___
+  - 2.Address:___
+  - 3.E-mail address:___
+  - 4.Telephone number:___
+  - 5.Country:___ 
+- There are no spaces between the numbers and the items being requested
+- The sender writes **"Full names"** (plural) instead of *Full name*, which is grammatically incorrect and not how a legitimate institution would phrase a form field
+
+Professional or legitimate financial communication does not contain these types of errors.
+
+
+
+
