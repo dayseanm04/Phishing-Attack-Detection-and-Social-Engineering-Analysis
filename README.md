@@ -29,3 +29,35 @@ This project simulates the role of a **help-desk security analyst** responsible 
 | [Example 10 – Fake Norton Renewal](./01-Email-Analysis/Example-10-Fake-Norton-Renewal.md) | Brand Impersonation / Vishing Setup | 🚨 Phishing |
 
 ---
+
+## Methodology
+
+Each email was analyzed using the following evaluation checklist:
+
+- Does the message ask for sensitive information?
+- Is the sender's name consistent with the email address?
+- Does the domain match the organization being represented?
+- Are there spelling errors, poor grammar, or inconsistent formatting?
+- Does the message force the user to a webpage or request a download?
+- Are there unexpected attachments or suspicious links?
+- Does the message request money or personal details?
+- Is urgency or emotional manipulation being used?
+
+Each example was then assigned one of the following verdicts:
+
+- ✅ **Legitimate** — No phishing indicators detected
+- 🚨 **Phishing** — One or more critical indicators present
+
+---
+
+## Lab Results Summary
+
+| | Count |
+|--|--|
+| Total Emails Analyzed | 10 |
+| Legitimate | 2 |
+| Phishing / Suspicious | 8 |
+| Most Common Indicator | Suspicious Sender Domain |
+| Scam Types Identified | Advance-Fee, Brand Impersonation, Government Impersonation, Extortion, Vishing |
+
+---
