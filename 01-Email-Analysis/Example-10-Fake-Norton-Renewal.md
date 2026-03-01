@@ -47,3 +47,11 @@ This inconsistency reveals the email was carelessly crafted and is not from a re
 - The goal is to get the recipient on the phone, where scammers will attempt to extract personal and financial information such as credit card numbers or bank account details
 
 ---
+
+### 4. Suspicious Helpline Number  
+
+- The email provides **+1 (570) 260-6102** as the contact number for cancellations
+- This is not a verified Norton customer service number
+- Calling this number connects the recipient directly to the scammer, who will pose as a Norton representative and attempt to steal personal or financial information
+
+---
