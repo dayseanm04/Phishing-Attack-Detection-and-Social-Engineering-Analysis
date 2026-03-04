@@ -15,7 +15,7 @@ This Lab/project simulates the role of a **help-desk security analyst** responsi
 
 ---
 
-## 🔗 Quick Navigation
+## Quick Navigation
 
 | File / Folder | Description |
 |------|-------------|
